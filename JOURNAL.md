@@ -2,9 +2,9 @@ Made by: Mo
 
 Repository link: [Azad1N](https://github.com/mo8codes/Azad1N)
 
-Total hours so far: 4
+Total hours so far: 5
 
-- [x] I have a 3D printer or will be getting one before March 21st
+- [x] I have a 3D printer
 
 ## Day 1 29/3/25 Time spent: 3 Hours
 - Made [Azad1N](https://github.com/mo8codes/Azad1N) repository,
@@ -30,3 +30,7 @@ https://www.vorondesign.com/
 
 https://www.reprap.org/wiki/
 
+## Day 4 1/4/25 Time spent: 1 Hour
+- Set up Windows and update Fusion,
+- Read some stuff,
+- Add some details about my printer into the README although I don't know if the features I want to implement can be implemented.
