@@ -2,7 +2,7 @@ Made by: Mo
 
 Repository link: [Azad1N](https://github.com/mo8codes/Azad1N)
 
-Total hours so far: 5
+Total hours so far: 7
 
 - [x] I have a 3D printer
 
@@ -34,3 +34,22 @@ https://www.reprap.org/wiki/
 - Set up Windows and update Fusion,
 - Read some stuff,
 - Add some details about my printer into the README although I don't know if the features I want to implement can be implemented.
+
+## Day 5 2/4/25 Time spent: 2 Hours
+- Making diagrams on paper
+- Searching for parts
+- Reading
+- Decide on the max size (350x320x370mm)
+- Made that as a component in Fusion (Just a big cube that I would like to aim to be the maximum size of the printer
+To-Do:
+- Find cheaper alternatives for these parts,
+![image](https://github.com/user-attachments/assets/0d642ae8-7523-4a7d-992e-79b5e29e4080)
+- Make nice BOM in the README,
+- Make the frame in Fusion using the V-rail aluminium extrusion,
+- Add the other parts to the Fusion model (motors, gantry, heatbed and coolplate, timing belts),
+- Edit readme as the heated, air tight filament enclosure should definitely be seperate,
+- Design tool head
+- Add tool head to BOM
+- Add tool head to CAD
+- Design motherboard (Aim to meet requirements: good motors that support microstepping 
+
