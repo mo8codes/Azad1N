@@ -48,8 +48,8 @@ To-Do:
 - Make the frame in Fusion using the V-rail aluminium extrusion,
 - Add the other parts to the Fusion model (motors, gantry, heatbed and coolplate, timing belts),
 - Edit readme as the heated, air tight filament enclosure should definitely be seperate,
-- Design tool head
+- Design tool head (extruder, hotend, etc)
 - Add tool head to BOM
 - Add tool head to CAD
-- Design motherboard (Aim to meet requirements: good motors that support microstepping 
-
+- Design motherboard and power supply(Aim to meet requirements: good motors that support microstepping and usb-c power and ethernet/usb-c data transfer with a interface on device as opposed to a screen)
+- Add those to CAD 
