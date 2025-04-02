@@ -41,6 +41,8 @@ https://www.reprap.org/wiki/
 - Reading
 - Decide on the max size (350x320x370mm)
 - Made that as a component in Fusion (Just a big cube that I would like to aim to be the maximum size of the printer
+- Added the 20x40 V-Rail component
+
 To-Do:
 - Find cheaper alternatives for these parts,
 ![image](https://github.com/user-attachments/assets/0d642ae8-7523-4a7d-992e-79b5e29e4080)
