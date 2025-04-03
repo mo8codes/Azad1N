@@ -2,7 +2,7 @@ Made by: Mo
 
 Repository link: [Azad1N](https://github.com/mo8codes/Azad1N)
 
-Total hours so far: 7
+Total hours so far: 8
 
 - [x] I have a 3D printer
 
@@ -35,17 +35,26 @@ https://www.reprap.org/wiki/
 - Read some stuff,
 - Add some details about my printer into the README although I don't know if the features I want to implement can be implemented.
 
-## Day 5 2/4/25 Time spent: 2 Hours
+## Day 5 2/4/25 Time spent: 3 Hours
 - Making diagrams on paper
 - Searching for parts
 - Reading
 - Decide on the max size (350x320x370mm)
 - Made that as a component in Fusion (Just a big cube that I would like to aim to be the maximum size of the printer
 - Added the 20x40 V-Rail component
+- Watched this https://www.youtube.com/watch?v=V_P36ezmop4
 
-To-Do:
+## Day 6 3/4/25 Time spent: 5 minutes
+- Drew a bit
+- Modified formatting
+
+
+
+### To-Do:
 - Find cheaper alternatives for these parts,
+
 ![image](https://github.com/user-attachments/assets/0d642ae8-7523-4a7d-992e-79b5e29e4080)
+
 - Make nice BOM in the README,
 - Make the frame in Fusion using the V-rail aluminium extrusion,
 - Add the other parts to the Fusion model (motors, gantry, heatbed and coolplate, timing belts),
