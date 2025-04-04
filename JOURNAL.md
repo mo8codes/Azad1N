@@ -2,7 +2,7 @@ Made by: Mo
 
 Repository link: [Azad1N](https://github.com/mo8codes/Azad1N)
 
-Total hours so far: 8
+Total hours so far: 10
 
 - [x] I have a 3D printer
 
@@ -48,13 +48,14 @@ https://www.reprap.org/wiki/
 - Drew a bit
 - Modified formatting
 
-
+## Day 7 4/4/25 Time spent: 2 Hours
+- Watched this video https://www.youtube.com/watch?v=uh-8_YDhIVM
+- Drawing and writing stuff on paper ex: short list of expected parts,
+- Bambu parts checked,
+![image](https://github.com/user-attachments/assets/79b676af-b510-4397-862f-c9f469f2aa2f)
 
 ### To-Do:
-- Find cheaper alternatives for these parts,
-
-![image](https://github.com/user-attachments/assets/0d642ae8-7523-4a7d-992e-79b5e29e4080)
-
+- Finalise part list and printer design (on paper)
 - Make nice BOM in the README,
 - Make the frame in Fusion using the V-rail aluminium extrusion,
 - Add the other parts to the Fusion model (motors, gantry, heatbed and coolplate, timing belts),
@@ -63,4 +64,4 @@ https://www.reprap.org/wiki/
 - Add tool head to BOM
 - Add tool head to CAD
 - Design motherboard and power supply(Aim to meet requirements: good motors that support microstepping and usb-c power and ethernet/usb-c data transfer with a interface on device as opposed to a screen)
-- Add those to CAD 
+- Add those to CAD and BOM
