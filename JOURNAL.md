@@ -2,7 +2,7 @@ Made by: Mo
 
 Repository link: [Azad1N](https://github.com/mo8codes/Azad1N)
 
-Total hours so far: 10
+Total hours so far: 11
 
 - [x] I have a 3D printer
 
@@ -53,6 +53,10 @@ https://www.reprap.org/wiki/
 - Drawing and writing stuff on paper ex: short list of expected parts,
 - Bambu parts checked,
 ![image](https://github.com/user-attachments/assets/79b676af-b510-4397-862f-c9f469f2aa2f)
+
+## Day 8 5/4/25 Time spent: 1 Hour
+- Realised my old CAD files weren't saved
+- Started the bottom Y-Rail in fusion
 
 ### To-Do:
 - Finalise part list and printer design (on paper)
